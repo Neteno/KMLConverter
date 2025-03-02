@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpNO8IQgo7Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Szymon\\Desktop\\KLM\\KmlConverter\\KmlConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Szymon\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
