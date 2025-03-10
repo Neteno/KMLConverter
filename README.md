@@ -10,7 +10,7 @@
 ✅ Wczytywanie plików **KML**  
 ✅ Obsługa formatów **Point** oraz **LineString**  
 ✅ Możliwość wyboru współrzędnych do eksportu: **X, Y, Z**  
-✅ Różne opcje separatorów: **Nowa linia, spacja, przecinek, średnik, pionowa kreska, tabulator**  
+✅ Różne opcje separatorów: **Nowa linia, spacja, przecinek**  
 ✅ Obsługa nawiasów w eksporcie **(np. [], {}, ())**  
 ✅ Ignorowanie pustych wpisów (nie zapisuje `[]` w CSV)  
 ✅ Informacja o błędach w osobnym oknie  
