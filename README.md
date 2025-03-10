@@ -1,5 +1,4 @@
-Oto plik **README.md** do Twojego projektu:  
-
+ 
 ---
 
 # KML to CSV Converter  
