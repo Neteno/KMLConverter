@@ -17,3 +17,4 @@ C:\Users\Szymon\Desktop\KLM\KmlConverter\obj\Release\net9.0-windows\refint\KmlCo
 C:\Users\Szymon\Desktop\KLM\KmlConverter\obj\Release\net9.0-windows\KmlConverter.pdb
 C:\Users\Szymon\Desktop\KLM\KmlConverter\obj\Release\net9.0-windows\KmlConverter.genruntimeconfig.cache
 C:\Users\Szymon\Desktop\KLM\KmlConverter\obj\Release\net9.0-windows\ref\KmlConverter.dll
+C:\Users\Szymon\Desktop\KLM\KmlConverter\obj\Release\net9.0-windows\KmlConverter.sourcelink.json

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmlConverter", "KmlConverter.csproj", "{3EC0EE56-30CE-4B57-BB0E-A12E06EEC641}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KmlConverterSetup", "..\KmlConverterSetup\KmlConverterSetup.vdproj", "{1CC824CA-ABB0-4812-BFC3-A4949C39326D}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KmlConverterSetup", "..\KmlConverterSetup\KmlConverterSetup.vdproj", "{EA05E06C-62BB-4999-95B7-EA0D0049AA98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{3EC0EE56-30CE-4B57-BB0E-A12E06EEC641}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EC0EE56-30CE-4B57-BB0E-A12E06EEC641}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EC0EE56-30CE-4B57-BB0E-A12E06EEC641}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1CC824CA-ABB0-4812-BFC3-A4949C39326D}.Debug|Any CPU.ActiveCfg = Debug
-		{1CC824CA-ABB0-4812-BFC3-A4949C39326D}.Release|Any CPU.ActiveCfg = Release
+		{EA05E06C-62BB-4999-95B7-EA0D0049AA98}.Debug|Any CPU.ActiveCfg = Debug
+		{EA05E06C-62BB-4999-95B7-EA0D0049AA98}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
