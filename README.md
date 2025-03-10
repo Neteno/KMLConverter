@@ -93,4 +93,4 @@ Oto dwa przykładowe pliki **KML**, które możesz użyć do testowania aplikacj
 Oba pliki pozwolą sprawdzić, czy program poprawnie obsługuje różne formaty współrzędnych. 🚀
 
 ## Autor  
-📌 **Neteno**  
+📌 **Szymon A. (aka Neteno)**  
