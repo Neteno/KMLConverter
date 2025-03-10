@@ -35,19 +35,63 @@ Oto plik **README.md** do Twojego projektu:
 ⚠ Jeśli format pliku jest nieprawidłowy, program poinformuje o błędzie w **oknie dialogowym** i nie zawiesi się.  
 
 ## Przykładowy plik KML  
+Oto dwa przykładowe pliki **KML**, które możesz użyć do testowania aplikacji.  
+
+### **Przykład 1: Punkty (Point)**
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Placemark>
-      <name>Przykładowy Punkt</name>
+      <name>Punkt 1</name>
       <Point>
-        <coordinates>19.944979,50.064650,0</coordinates>
+        <coordinates>19.944979,50.064650,150</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punkt 2</name>
+      <Point>
+        <coordinates>19.955230,50.067120</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punkt 3</name>
+      <Point>
+        <coordinates>19.968711,50.070678,200</coordinates>
       </Point>
     </Placemark>
   </Document>
 </kml>
 ```
+📌 **Zawiera 3 punkty** – jeden z pełnymi współrzędnymi (X, Y, Z), jeden bez wysokości (Z), a jeden z inną wartością wysokości.  
+
+---
+
+### **Przykład 2: Ścieżka (LineString)**
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Trasa testowa</name>
+      <LineString>
+        <coordinates>
+          19.944979,50.064650,100
+          19.955230,50.067120,120
+          19.968711,50.070678
+          19.982101,50.073800,140
+          19.995564,50.075950
+          20.009018,50.078230,160
+          20.022473,50.080500
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
+```
+📌 **Zawiera ścieżkę (LineString)** – niektóre punkty mają współrzędną Z (wysokość), a inne nie.  
+
+Oba pliki pozwolą sprawdzić, czy program poprawnie obsługuje różne formaty współrzędnych. 🚀
 
 ## Autor  
 📌 **Neteno**  
