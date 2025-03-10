@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KmlConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+193c56008e777b67a3caaf8925fdd21b5a6b11a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d3fdd29ed1d6b338e57c20ecb4c1eb76d245efc")]
 [assembly: System.Reflection.AssemblyProductAttribute("KmlConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KmlConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
